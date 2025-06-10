@@ -1,0 +1,9 @@
+.infoBox{
+    text-align:center;
+}
+
+.cardcontainer{
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+}
