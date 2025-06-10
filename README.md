@@ -1,7 +1,7 @@
-# Weather App🌤️
+# Weather App 🌤️
 A modern weather application built using React.js and styled with Material UI (MUI). It fetches real-time weather data based on city names using a public API (like OpenWeatherMap).
 
-🚀 Features
+# Features 🚀
 🌐 Get current weather info by city name
 
 🎨 Clean and responsive UI using Material UI
@@ -12,7 +12,7 @@ A modern weather application built using React.js and styled with Material UI (M
 
 🔍 Error handling for invalid city names
 
-🛠️ Tech Stack
+# Tech Stack 🛠️ 
 React.js
 
 Material UI
